@@ -1,9 +1,9 @@
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, it's Rexx !!
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, it's Rexx !!
 🔭 My name is Du. I am a person like everyone!<br>
 🤝 I’m a student at PTIT.
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <table>
 <tr>
   <center>
@@ -21,7 +21,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 💬 Contact info 
+## 💬 Contact info 
 - Facebook: https://www.facebook.com/nguyen.du.0801
 - Email: du08012001@gmail.com
 ---
