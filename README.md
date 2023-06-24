@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 Hi! My name is Du. I am a person like everyone!<br>🤝 I’m a student at PTIT.
+### Hi, it's Rexx <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+🔭 My name is Du. I am a person like everyone!<br>
+🤝 I’m a student at PTIT.
 
 
 ## 🌐 Socials:
@@ -8,6 +9,17 @@
 ![](https://github-readme-stats.vercel.app/api?username=Rexx0801&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rexx0801&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rexx0801&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Rexx0801&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexx0801&theme=radical&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexx0801&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  </td>
+</tr>
+<table>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rexx0801&theme=radical&no-frame=false&no-bg=false&margin-w=4)
