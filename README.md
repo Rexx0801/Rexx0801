@@ -17,13 +17,12 @@
 <table>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rexx0801&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 💬 Contact info 
+- Facebook: https://www.facebook.com/nguyen.du.0801
+- Email: du08012001@gmail.com
 ---
 [![](https://visitcount.itsvg.in/api?id=Rexx0801&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
