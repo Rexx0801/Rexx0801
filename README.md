@@ -1,4 +1,4 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, it's Rexx 
+### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, it's Rexx !!
 🔭 My name is Du. I am a person like everyone!<br>
 🤝 I’m a student at PTIT.
 
